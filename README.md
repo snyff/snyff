@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Thanks for visiting my profile
+
+Check out <a href="https://pentesterlab.com/">https://pentesterlab.com</a> if you want to learn web hacking and security code review.
+
+
+Check out my <a href="https://pentesterlab.gumroad.com/">Web Security Code Review Training</a> if you want to learn security code review live with me.
+
+
+
 <!--
 **snyff/snyff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
