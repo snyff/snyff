@@ -9,7 +9,18 @@ Check out my <a href="https://pentesterlab.gumroad.com/">Web Security Code Revie
 
 
 
-<!--
+<!-- A few bugs I reported:
+
+Session Injection in Play: https://www.playframework.com/security/vulnerability/20130806-SessionInjection
+RCE in Gogs/CVE-2018-20303: https://github.com/gogs/gogs/issues/5558 (and Gitea: https://github.com/go-gitea/gitea/issues/5569)
+Host manipulation in uadmin: https://github.com/uadmin/uadmin/issues/55
+Play with docker CORS: https://github.com/play-with-docker/play-with-docker/issues/636
+Directory Traversal in aah: https://github.com/go-aah/aah/issues/266
+SSRF in https://github.com/OADA/oada-trusted-jws-js/issues/2
+Improvement in Go TempFile: https://github.com/golang/go/issues/33920
+
+
+
 **snyff/snyff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
