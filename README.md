@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Internet Friends 👋
 
 Thanks for visiting my profile
 
