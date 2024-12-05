@@ -8,7 +8,7 @@ Check out <a href="https://pentesterlab.com/">https://pentesterlab.com</a> if yo
 Check out my <a href="https://pentesterlab.gumroad.com/">Web Security Code Review Training</a> if you want to learn security code review live with me.
 
 
-
+You can find some of my talks here: <a href="https://github.com/snyff/Talks">snyff/Talks</a>.
 <!-- A few bugs I reported:
 
 Session Injection in Play: https://www.playframework.com/security/vulnerability/20130806-SessionInjection
